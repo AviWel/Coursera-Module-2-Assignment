@@ -1,1 +1,2 @@
-# Coursera-Module-2-Assignment
+# Coursera- HTML, CSS, JS for Web Developers
+Module-2-Assignment Solution
