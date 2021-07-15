@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+<DOCTYPE! html>
+<html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<title>Module 2 Solution</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Our Menu</h1> 
+<div class="row">
+  
+  <div  class="col-lg-4 col-md-6 col-sm-12">
+      <div class="menucontent" id="menu1"> 
+         <p id="p1">Starters</p>
+         <ul>
+          <li>Soups</li>
+            <ul>
+            <li>Mushroom</li>
+            <li>Tomato</li>
+            <br>
+         </ul>
+          <li>Salads</li>
+            <ul>
+            <li>Green</li>
+            <li>Cheese</li>
+         </ul>
+      </div>
+  </div>
+  
+  <div  class="col-lg-4 col-md-6 col-sm-12"> 
+     <div class="menucontent" id="menu2"> 
+       <p id="p2">Mains</p>
+       <ul>
+          <li>Pasta</li>
+            <ul>
+            <li>Olio Oglio</li>
+            <li>Ariabiatta</li>
+            <br>
+         </ul>
+          <li>Pizza</li>
+            <ul>
+            <li>Margherita</li>
+            <li>Four Cheese</li>
+         </ul>
+     </div>
+  </div>
 
-You can use the [editor on GitHub](https://github.com/AviWel/Coursera-Module-2-Assignment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <div  class="col-lg-4 col-md-12 col-sm-12">
+    <div class="menucontent" id="menu3"> 
+       <p id="p3">Desserts</p>
+          <ul>
+          <li>Ice Cream</li>
+            <ul>
+            <li>Vanilla</li>
+            <li>Chocolate</li>
+            <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AviWel/Coursera-Module-2-Assignment/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+         </ul>
+          <li>Pastry</li>
+            <ul>
+            <li>Lemon Cheesecake</li>
+            <li>Swiss Chocolate</li>
+         </ul>
+    </div>
+  </div>
+</div>
+</div>
+</body>
+</html>
